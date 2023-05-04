@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "cec6df9997610fa6",
+            "id": "64ade580e45621fe",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -62,6 +62,14 @@
             "type": "leaf",
             "state": {
               "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "5ddb946e0d39f569",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
               "state": {}
             }
           }
@@ -146,7 +154,7 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "cec6df9997610fa6",
+  "active": "64ade580e45621fe",
   "lastOpenFiles": [
     "Cours.md"
   ]
