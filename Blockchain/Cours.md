@@ -74,3 +74,7 @@ Ethereum introduced smart contracts
 -   `calldata` - special data location that contains function arguments
 
 https://solidity-by-example.org/
+
+ERC 721 et 1155 sont les standards pour Zeplin
+
+IPFS pour stocker les NFTs
